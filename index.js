@@ -33,29 +33,15 @@ if(quantidade <= 100) {
 
 }
 
-
-
-<<<<<<< HEAD
-=======
-if(nomePeça <= 3) {
-    console.log("A peça tem em seu nome menos de 3 caracteres")
-} else { 
-    console.log("A peça tem em seu nome mais de 3 caracteres")
-}
-
+Windows PowerShell
 Copyright (C) Microsoft Corporation. Todos os direitos reservados.
 
 Experimente a nova plataforma cruzada PowerShell https://aka.ms/pscore6
 
 PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1> node index.js
-Cadastrar Peças
-PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1> node index.js
-Cadastrar Peças
-A capacidade da caixa nao e suficiente para armazenar as peças
-PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1>
-PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1> node index.js
-Cadastrar Peças
-A capacidade da caixa nao e suficiente para armazenar as peças
-A peça tem em seu nome menos de 3 caracteres
-PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1>
->>>>>>> a723efc0454f8e5319c0c05d80f8b68ba57207c9
+Permitir o evento
+Permitir Cadastro
+Participantes    
+Palestrantes     
+Permitir Cadastro de Participantes
+PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1> 
