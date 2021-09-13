@@ -1,25 +1,37 @@
-var peso = 100
+var data = 05/09
+const dataAtual = 06/09
 
-if(peso >= 100) {
-    console.log("Cadastrar Peças")
+if(dataAtual >= data) {
+    console.log("Permitir o evento")
 } else {
-    console.log("Erro a Peça tem o seu peso inferior a 100g")
-} 
+    console.log("Data invalida o cadastro nao sera permitida")
+}
 
+var  idade = 18 
 
-var lista = 10
-
-if(lista >= 10) {
-    console.log("A capacidade da caixa nao e suficiente para armazenar as peças")
+if(idade >= 18) {
+    console.log("Permitir Cadastro")
 } else {
-    console.log("A capacidade da caixa e suficiente para armazenar as peças")
+    console.log("Cadastro nao permitido pela idade")
 }
 
 
-var nomePeça = 3
-
-if(nomePeça <= 3) {
-    console.log("A peça tem em seu nome menos de 3 caracteres")
-} else { 
-    console.log("A peça tem em seu nome mais de 3 caracteres")
+let listaDeParticipantes = ["Participantes" , "Palestrantes"];
+let quantidadeDeParticipantes = listaDeParticipantes.length;
+for (let indice = 0; indice < quantidadeDeParticipantes; indice++) {
+    const pessoaCorrente = listaDeParticipantes[indice];
+    console.log(pessoaCorrente);
 }
+
+
+var quantidade = 100
+
+if(quantidade <= 100) {
+    console.log("Permitir Cadastro de Participantes")
+} else {
+    console.log("Cadastro nao Permitido por ter excedido o limite")
+
+}
+
+
+
