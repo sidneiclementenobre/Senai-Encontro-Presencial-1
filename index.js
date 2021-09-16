@@ -23,24 +23,23 @@ for(var contador = 0;contador<=total;contador++) {
 
 var numero = 14
 var total = 0
-
 if(total<=0){
-    console.log(" O numero e Zero")
+    console.log("o numero e Zero")
 }else{
 
 }
 
-for(let contador=1;contador<=numero;contador++) {
+for(let contador=1;contador<=numero;contador++){
 
-    if(contador%2 == 0) {
-        console.log("O numero e Par" +contador)
+    if(contador%2 == 0){
+        console.log("o numero e Par " +contador)
     }else{
-        console.log("O numero e Impar" +contador)
-
+        console.log("o numero e Impar " +contador)
     }
-
-
+    
+    
 }
+
     
     
 
