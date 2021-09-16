@@ -76,19 +76,3 @@ O numero e Par12
 O numero e Impar13
 O numero e Par14
 PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1> node index.js
-O numero e Zero
-O numero 1 e Impar
-O numero 2 e Par
-O numero 3 e Impar
-O numero 4 e Par
-O numero 5 e Impar
-O numero 6 e Par
-O numero 7 e Impar
-O numero 8 e Par
-O numero 9 e Impar
-O numero 10 e Par
-O numero 11 e Impar
-O numero 12 e Par
-O numero 13 e Impar
-O numero 14 e Par
-PS C:\Users\Erica Nobre\Documents\Senai-Encontro Presencial 1>
