@@ -39,7 +39,3 @@ for(let contador=1;contador<=numero;contador++){
     
     
 }
-
-    
-    
-
