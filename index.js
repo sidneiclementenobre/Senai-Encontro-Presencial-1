@@ -19,3 +19,28 @@ for(var contador = 0;contador<=total;contador++) {
     
     }
 }
+
+
+var numero = 14
+var total = 0
+
+if(total<=0){
+    console.log(" O numero e Zero")
+}else{
+
+}
+
+for(let contador=1;contador<=numero;contador++) {
+
+    if(contador%2 == 0) {
+        console.log("O numero e Par" +contador)
+    }else{
+        console.log("O numero e Impar" +contador)
+
+    }
+
+
+}
+    
+    
+
