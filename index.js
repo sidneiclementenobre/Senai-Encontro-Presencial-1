@@ -1,41 +1,26 @@
-var numero = 0
-var total = 14
+var peso = 100
 
-for(var contador = 0;contador<=total;contador++) {
-    if(contador == 0) {
-        console.log("O numero e Zero");
-    }else{
-        if(contador%2 == 0) {
-            console.log("O numero " +contador + " e Par");
-        }else{
-            if(contador%2 == 1) {
-                console.log("O numero " +contador+ " e Impar");
-            }else{
-
-            } 
-
-        
-        }
+if(peso >= 100) {
+    console.log("Permitir Cadastro")
+} else {
+    console.log("Nao permitir cadastro o peso da peça e inferior a 100g")
+} 
     
-    }
+
+
+var lista = 10
+
+if(lista >= 10) {
+    console.log("A capacidade da caixa nao e suficiente para armazenar as peças")
+} else {
+    console.log("A capacidade da caixa e suficiente para armazenar as peças")
 }
 
 
-var numero = 14
-var total = 0
-if(total<=0){
-    console.log("o numero e Zero")
-}else{
+var quantidade = 3
 
-}
-
-for(let contador=1;contador<=numero;contador++){
-
-    if(contador%2 == 0){
-        console.log("o numero e Par " +contador)
-    }else{
-        console.log("o numero e Impar " +contador)
-    }
-    
-    
+if(quantidade <= 3) {
+    console.log("A peça tem em seu nome menos de 3 caracteres")
+} else {
+    console.log("A peça tem em seu nome 3 ou mais caracteres")
 }
